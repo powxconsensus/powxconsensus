@@ -22,11 +22,11 @@ Hello, I'm Priyanshu Mishra, a nascent programmer with a passion for algorithms.
 
 ## 📈 **Github Stats:**
 
-<a href="https://github.com/priyanshu-678">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyanshu-678&show_icons=true&include_all_commits=true&theme=blue-green&count_private=true">
+<a href="https://github.com/powxconsensus">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=powxconsensus&show_icons=true&include_all_commits=true&theme=blue-green&count_private=true">
 </a>
-<a href="https://github.com/priyanshu-678/github-readme-stats">
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=priyanshu-678&layout=Demo&theme=blue-green" />
+<a href="https://github.com/powxconsensus/github-readme-stats">
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=powxconsensus&layout=Demo&theme=blue-green" />
 </a>
 
 ## 📫 **Link Tree:**
