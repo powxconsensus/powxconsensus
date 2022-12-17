@@ -6,7 +6,7 @@
 
 ## &nbsp; &nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me** &nbsp; ![counter](https://en43srm2aksfqzz.m.pipedream.net/)
 
-Hello, I'm Priyanshu Mishra, a nascent programmer with a passion for algorithms. I am a full-stack developer having experience with the MERN stack, as well as Data Structures, Algorithms, and OOPS. My current passions are competitive coding, web development, and acquiring new skills.
+Hello, I'm Priyanshu Mishra, As a highly skilled and experienced blockchain developer, I have a strong track record of success in the industry. I have excelled during my internships at Nethermind, Dwarf AI, and Newton School, gaining valuable hands-on experience in the field. My expertise in Ethereum blockchain technology, including EIPs and tokens, is unparalleled, and I have a deep understanding of the underlying principles and technologies of blockchain systems. I am well-versed in DeFi protocols such as Uniswap and Aave, and have a strong understanding of how these protocols can be used to facilitate decentralized financial transactions. I am a strong problem-solver, able to think critically and creatively to develop innovative solutions to complex challenges. My work on the Pirates project at Wow Labz demonstrates my ability to bring new ideas to life, and my dedication to staying up-to-date with the latest developments in the field makes me a valuable asset to any team. My passion for blockchain technology and DeFi is evident in all that I do, and I am truly a leading expert in the industry.
 
 ## 🛠️ **Languages & Tools:**
 
