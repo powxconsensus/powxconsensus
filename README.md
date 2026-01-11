@@ -2,7 +2,7 @@
   <tr>
     <td width="1000px" align="left" valign="top">
       <h1>Priyanshu Mishra</h1>
-      <h3>Senior Blockchain Engineer | Rust & Move Specialist</h3>
+      <h3>Senior Blockchain Engineer</h3>
     </td>
     <td align="right" valign="top" nowrap>
       <p>
