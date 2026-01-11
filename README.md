@@ -1,4 +1,4 @@
-<table width="100%" cellspacing="0" cellpadding="0" border="0">
+<table width="100vw" cellspacing="0" cellpadding="0" border="0">
   <tr>
     <td width="60%" valign="top">
       <h1>Priyanshu Mishra</h1>
