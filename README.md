@@ -1,10 +1,10 @@
-<table width="100vw" cellspacing="0" cellpadding="0" border="0">
+<table width="100%">
   <tr>
-    <td width="60%" valign="top">
+    <td width="1000px" align="left" valign="top">
       <h1>Priyanshu Mishra</h1>
-      <h3>Senior Blockchain Engineer</h3>
+      <h3>Senior Blockchain Engineer | Rust & Move Specialist</h3>
     </td>
-    <td width="40%" align="right" valign="top">
+    <td align="right" valign="top" nowrap>
       <p>
         <strong>Email:</strong> <a href="mailto:mpriyanshu1123@gmail.com">mpriyanshu1123@gmail.com</a><br>
         <strong>Portfolio:</strong> <a href="https://powxconsensus.dev">powxconsensus.dev</a><br>
