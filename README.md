@@ -1,36 +1,60 @@
-<h1 align="center">I'm Priyanshu Mishra, and I'd like to welcome you to my page.</h1>
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+  <tr>
+    <td width="60%" valign="top">
+      <h1>Priyanshu Mishra</h1>
+      <h3>Senior Blockchain Engineer</h3>
+    </td>
+    <td width="40%" align="right" valign="top">
+      <p>
+        <strong>Email:</strong> <a href="mailto:mpriyanshu1123@gmail.com">mpriyanshu1123@gmail.com</a><br>
+        <strong>Portfolio:</strong> <a href="https://powxconsensus.dev">powxconsensus.dev</a><br>
+        <strong>Telegram:</strong> <a href="https://t.me/powxconsensus">@powxconsensus</a><br>
+        <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/priyanshu678/">priyanshu678</a>
+      </p>
+    </td>
+  </tr>
+</table>
 
-</br>
-<img align="right" alt="Coding" width="300" src="./GIFS/2.gif">
-</br>
 
-## &nbsp; &nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me** &nbsp; ![counter](https://en43srm2aksfqzz.m.pipedream.net/)
+---
 
-Hello, I'm Priyanshu Mishra, As a highly skilled and experienced blockchain developer, I have a strong track record of success in the industry. I have excelled during my internships at Nethermind, Dwarf AI, and Newton School, gaining valuable hands-on experience in the field. My expertise in Ethereum blockchain technology, including EIPs and tokens, is unparalleled, and I have a deep understanding of the underlying principles and technologies of blockchain systems. I am well-versed in DeFi protocols such as Uniswap and Aave, and have a strong understanding of how these protocols can be used to facilitate decentralized financial transactions. I am a strong problem-solver, able to think critically and creatively to develop innovative solutions to complex challenges. My work on the Pirates project at Wow Labz demonstrates my ability to bring new ideas to life, and my dedication to staying up-to-date with the latest developments in the field makes me a valuable asset to any team. My passion for blockchain technology and DeFi is evident in all that I do, and I am truly a leading expert in the industry.
+### &nbsp; &nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Profile &nbsp; ![counter](https://en43srm2aksfqzz.m.pipedream.net/)
 
-## 🛠️ **Languages & Tools:**
+I am a Blockchain Infrastructure Engineer specializing in the frontier of cross-chain interoperability. My expertise lies in architecting high-performance systems across EVM, Solana (SVM), and Move-based ecosystems. I bridge fragmented networks through secure messaging and intent-based settlement layers.
 
-![HTML](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
-![Javascript](https://img.shields.io/badge/-Javascript-ffb400?style=for-the-badge&logo=javascript&logoColor=ffff3f)
-![Node](https://img.shields.io/badge/-Node-blue?style=for-the-badge&logo=node.js)
-![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=for-the-badge&logo=mongodb)
-![C++](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)
-![Python](https://img.shields.io/badge/-Python-red?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/-Java-ffb400?style=for-the-badge&logo=java&logoColor=ffff3f)
-![Unreal](https://img.shields.io/badge/-Unreal-black?style=for-the-badge&logo=ue4&logoColor=ffff3f)
+* 🦀 **Tech Focus:** Rust, Solidity, Go, Move.
+* 🛡️ **Security:** Proven track record of leading protocols through **Oak Security** audits.
 
-## 📈 **Github Stats:**
+---
 
-<a href="https://github.com/powxconsensus">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=powxconsensus&show_icons=true&include_all_commits=true&theme=blue-green&count_private=true">
-</a>
-<a href="https://github.com/powxconsensus/github-readme-stats">
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=powxconsensus&layout=Demo&theme=blue-green" />
-</a>
+### 🛠️ Technical Arsenal
 
-## 📫 **Link Tree:**
+| Layer | Skills |
+| :--- | :--- |
+| **Languages** | Rust, Go, Solidity, Move, TypeScript, C++, Java |
+| **Frameworks** | Anchor (Solana), Hardhat/Foundry, Cosmos SDK, Nest.js, Next.js |
+| **Chains** | Solana, Sui, Aptos, Ethereum, Near, Aleph Zero, Tron |
+| **Infrastructure** | Asset Bridges, Intent Settlement, Jito Bundling, gRPC, Redis |
 
-<p align="center">
-<a href="https://www.linkedin.com/in/priyanshu678//" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Priyanshu Mishra" height="40" width="40" /></a>
-<a href="mailto:pm.ejobs.m21@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Priyanshu Mishra" height="40" width="40" /></a>
+---
+
+### 🚀 Key Professional Milestones
+
+**Blockchain Engineer | Router Protocol (2023 — Present)**
+* **Non-EVM Integration:** Owned the end-to-end integration of Solana, Sui, and Near into the Router V2 ecosystem.
+* **Intent-Based Bridging:** Architected the "Asset Forwarder" system, reducing cross-chain transfer latency to **5–15 seconds**.
+* **Bridge Aggregation:** Contributed to the **Router Open Graph** (Rust) to optimize liquidity routing and minimize slippage.
+* **Solana Specialist:** Developed custom logic to handle SVM transaction limits and deterministic state management.
+
+**Blockchain Internships (2021 — 2022)**
+* **Nethermind:** Deep-dive into Ethereum internals, EIPs, and DeFi protocol research.
+* **Newton School / Dwarf AI:** Focused on smart contract development and decentralized application architecture.
+
+---
+
+### 📈 Language Distribution
+<p align="left">
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=powxconsensus&layout=compact&theme=solarized-light&hide_border=true" />
+</p>
+
+---
