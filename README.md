@@ -20,7 +20,7 @@
 
 ### &nbsp; &nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Profile &nbsp; ![counter](https://en43srm2aksfqzz.m.pipedream.net/)
 
-I am a Blockchain Infrastructure Engineer specializing in the frontier of cross-chain interoperability. My expertise lies in architecting high-performance systems across EVM, Solana (SVM), and Move-based ecosystems. I bridge fragmented networks through secure messaging and intent-based settlement layers.
+I am a Senior Blockchain Engineer specializing in the frontier of cross-chain interoperability. My expertise lies in architecting high-performance systems across EVM, Solana (SVM), and Move-based ecosystems. I bridge fragmented networks through secure messaging and intent-based settlement layers.
 
 * 🦀 **Tech Focus:** Rust, Solidity, Go, Move.
 * 🛡️ **Security:** Proven track record of leading protocols through **Oak Security** audits.
